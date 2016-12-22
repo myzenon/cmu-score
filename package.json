@@ -1,0 +1,26 @@
+{
+  "name": "cmu-checkscore",
+  "version": "1.0.0",
+  "description": "A simple free time activity which used to check whether cmu score is up-date.",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "jsdom": "^9.9.1",
+    "node-notifier": "^4.6.1",
+    "opener": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myzenon/cmu-score.git"
+  },
+  "author": "Zenon 'SI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myzenon/cmu-score/issues"
+  },
+  "homepage": "https://github.com/myzenon/cmu-score#readme"
+}
